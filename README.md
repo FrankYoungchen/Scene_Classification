@@ -6,4 +6,4 @@ This is a keras implementation of Scene_Classification
 python  train_inception_resnet.py
 ## Test
 python test.py
- it will filter out the images in the testdata set  that are different from the GT and help adjust the data set.
+it will filter out the images in the testdata set  that are different from the GT and help adjust the data set.
